@@ -1,3 +1,3 @@
 # KnowBe4
 
-KNowBe4 Repository to store any documentaion for this project
+KnowBe4 Repository to store any documentaion for this project
